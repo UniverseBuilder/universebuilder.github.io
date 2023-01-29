@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_multiverses_verse_gh_page=self.webpackChunk_multiverses_verse_gh_page||[]).push([[427],{3566:function(e,s,t){e.exports=t.p+"static/media/close_white.80e0c2bd322ebf806cb5.svg"}}]);
